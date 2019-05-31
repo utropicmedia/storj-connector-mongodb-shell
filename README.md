@@ -8,10 +8,10 @@ Your shell environment needs to have mongo cli tools on the path along with the 
 
 ## Installation
 
-[Download](https://github.com/kmozurkewich/storj-connector-mongodb/archive/master.zip) or clone script from repository.
+[Download](https://github.com/utropicmedia/storj-connector-mongodb/archive/master.zip) or clone script from repository.
 
 ```bash
-wget https://github.com/kmozurkewich/storj-connector-mongodb/archive/master.zip
+wget https://github.com/utropicmedia/storj-connector-mongodb/archive/master.zip
 ```
 
 ## Usage
